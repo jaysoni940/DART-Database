@@ -1,11 +1,7 @@
-CS 6360 Database Design
-Project Report
+**CS 6360 Database Design Project:
+Dallas Area Road Transport**
 
-Group 15
-
-Harish Srinivasan
-Pratik Deepak Naik
-Jay Virendra Soni
+Professor: Dr. Wei Li Wu
 
 Dallas Area Road Transport or DART would like one relational database to store the information about their bus transportation system to be able to carry out their work in an organized way. The DART has some major modules such as Bus, Person (Employee and Passenger) and Ticket Sales.
 
